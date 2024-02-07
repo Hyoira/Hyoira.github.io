@@ -1,1 +1,5 @@
 theme: minima
+
+header-pages:
+  - index.md
+  - discord-roll-manage.md

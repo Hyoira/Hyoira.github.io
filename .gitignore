@@ -1,0 +1,5 @@
+.ruby-version
+vender/
+.bundle/
+
+Gemfile.lock

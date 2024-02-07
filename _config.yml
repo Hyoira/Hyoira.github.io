@@ -1,7 +1,7 @@
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
 title: Hyoira Profile
 
-header-pages:
-  - index.md
-  - discord-roll-manage.md
+# header-pages:
+#   - index.md
+#   - discord-roll-manage.md
